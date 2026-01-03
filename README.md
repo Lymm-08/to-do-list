@@ -29,4 +29,10 @@ As tarefas ficam salvas no navegador usando `localStorage`.
 ## 📷 Demonstração
 
 ![Demo](todo-list/img/todo-list.gif)
+
+---
+
+## 🌐 Acesse online
+
+[To-Do List no GitHub Pages](https://lymm-08.github.io/to-do-list/)
 ```
