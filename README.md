@@ -28,6 +28,5 @@ As tarefas ficam salvas no navegador usando `localStorage`.
 
 ## 📷 Demonstração
 
-![Demo](imagens/todo-list.gif)
+![Demo](todo-list/img/todo-list.gif)
 ```
-
