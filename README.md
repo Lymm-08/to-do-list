@@ -1,38 +1,38 @@
 ```markdown
-# 📝 To-Do List em JavaScript
+# 📝 To-Do List in JavaScript
 
-Um simples gerenciador de tarefas feito com **HTML, CSS e JavaScript**.  
-As tarefas ficam salvas no navegador usando `localStorage`.
+A simple task manager built with **HTML, CSS, and JavaScript**.  
+Tasks are saved in the browser using `localStorage`.
 
 ---
 
-## 🚀 Como usar
+## 🚀 How to Use
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
    git clone https://github.com/Lymm-08/to-do-list.git
    ```
-2. Abra o arquivo `index.html` no navegador.
-3. Adicione, conclua e exclua tarefas à vontade!
+2. Open the `index.html` file in your browser.
+3. Add, complete, and delete tasks freely!
 
 ---
 
-## 🎨 Funcionalidades
+## 🎨 Features
 
-- Adicionar tarefas  
-- Marcar como concluídas  
-- Deletar tarefas  
-- Salvar no navegador (localStorage)
+- Add tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Save tasks in the browser (localStorage)
 
 ---
 
-## 📷 Demonstração
+## 📷 Demonstration
 
 ![Demo](todo-list/img/todo-list.gif)
 
 ---
 
-## 🌐 Acesse online
+## 🌐 Online Access
 
-[To-Do List no GitHub Pages](https://lymm-08.github.io/to-do-list/)
+[To-Do List on GitHub Pages](https://lymm-08.github.io/to-do-list/)
 ```
