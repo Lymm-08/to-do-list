@@ -1,12 +1,12 @@
 ```markdown
-# 📝 Lista de Tarefas em JavaScript
+# Lista de Tarefas em JavaScript
 
 Este repositório contém um gerenciador de tarefas simples desenvolvido com **HTML, CSS e JavaScript**.  
 As tarefas são armazenadas diretamente no navegador utilizando **localStorage**.
 
 ---
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 1. Clone este repositório:
    ```bash
@@ -17,7 +17,7 @@ As tarefas são armazenadas diretamente no navegador utilizando **localStorage**
 
 ---
 
-## 🎨 Funcionalidades
+## Funcionalidades
 
 - Adicionar novas tarefas  
 - Marcar tarefas como concluídas  
@@ -26,7 +26,7 @@ As tarefas são armazenadas diretamente no navegador utilizando **localStorage**
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `index.html` — Interface principal da aplicação.  
 - `style.css` — Estilos visuais da aplicação.  
@@ -35,19 +35,19 @@ As tarefas são armazenadas diretamente no navegador utilizando **localStorage**
 
 ---
 
-## 📷 Demonstração
+## Demonstração
 
 `[Parece que o resultado não era seguro para exibição. Vamos mudar as coisas e tentar outra opção!]`
 
 ---
 
-## 🌐 Acesso Online
+## Acesso Online
 
 [Lista de Tarefas no GitHub Pages](https://lymm-08.github.io/to-do-list/)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5**  
 - **CSS3**  
@@ -56,7 +56,7 @@ As tarefas são armazenadas diretamente no navegador utilizando **localStorage**
 
 ---
 
-## 🔧 Diferenciais Técnicos
+## Diferenciais Técnicos
 
 - Utilização de **localStorage** para persistência de dados sem necessidade de backend.  
 - Estrutura modular e organizada para fácil manutenção.  
