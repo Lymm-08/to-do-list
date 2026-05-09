@@ -37,7 +37,7 @@ As tarefas são armazenadas diretamente no navegador utilizando **localStorage**
 
 ## Demonstração
 
-`[Parece que o resultado não era seguro para exibição. Vamos mudar as coisas e tentar outra opção!]`
+![Demo](todo-list/img/todo-list.gif)
 
 ---
 
